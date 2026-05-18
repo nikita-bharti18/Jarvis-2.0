@@ -105,7 +105,7 @@ Jarvis-2.0/
 
 Rishi Soni
 
-GitHub: [rishi02soni GitHub Profile](https://github.com/rishi02soni?utm_source=chatgpt.com)
+GitHub: [rishi02soni GitHub Profile](https://github.com/rishi02soni)
 
 ---
 
