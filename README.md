@@ -103,9 +103,9 @@ Jarvis-2.0/
 
 # Author
 
-Rishi Soni
+Nikita BHarti
 
-GitHub: [rishi02soni GitHub Profile](https://github.com/rishi02soni)
+GitHub: [rishi02soni GitHub Profile](https://github.com/nikita-bharti18)
 
 ---
 
