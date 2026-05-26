@@ -105,7 +105,7 @@ Jarvis-2.0/
 
 Nikita BHarti
 
-GitHub: [rishi02soni GitHub Profile](https://github.com/nikita-bharti18)
+GitHub: [nikita-bharti18 GitHub Profile](https://github.com/nikita-bharti18)
 
 ---
 
